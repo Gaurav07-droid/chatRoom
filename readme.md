@@ -1,3 +1,3 @@
 # chatRoom
 
-An real time chat room made with socket.io and javascript
+An simple real time chat room appliaction made with socket.io and javascript
